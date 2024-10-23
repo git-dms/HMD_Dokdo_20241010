@@ -82,6 +82,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
