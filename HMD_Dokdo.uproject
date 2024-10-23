@@ -86,6 +86,10 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
