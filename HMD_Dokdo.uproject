@@ -32,12 +32,17 @@
 			]
 		},
 		{
-			"Name": "MovieRenderPipeline",
+			"Name": "MultiUserClient",
 			"Enabled": true
 		},
 		{
-			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": true
+			"Name": "Fab",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		},
 		{
 			"Name": "OpenXR",
@@ -72,32 +77,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
-			]
-		},
-		{
-			"Name": "OpenXRViveTracker",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android"
-			]
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-		},
-		{
-			"Name": "Switchboard",
-			"Enabled": true
-		},
-		{
-			"Name": "Fab",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
 			]
 		}
 	],
