@@ -78,6 +78,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
