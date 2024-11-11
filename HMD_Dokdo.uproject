@@ -32,10 +32,6 @@
 			]
 		},
 		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-		},
-		{
 			"Name": "Fab",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
